@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+nav { 
+    background-color: #0000ff;
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    color: #00ffff;
+    text-decoration: none;
+}
